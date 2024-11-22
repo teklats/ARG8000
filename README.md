@@ -24,17 +24,17 @@ First, clone the repository to your local machine:
 
 ### Create and Activate a Virtual Environment
 #### MacOS/Linux
-python3 -m venv .venv
-source .venv/bin/activate
+    python3 -m venv .venv
+    source .venv/bin/activate
 
 #### Windows
-python -m venv .venv
-.venv\Scripts\activate
+    python -m venv .venv
+    .venv\Scripts\activate
 
 ### Install Dependencies
 (for macOS use pip3)
-pip install opencv-python opencv-contrib-python numpy
+    pip install opencv-python opencv-contrib-python numpy
 
 
 ## Run the programm
-python3 main.py
+    python3 main.py
