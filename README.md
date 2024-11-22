@@ -1,4 +1,4 @@
-**# ARG8000**
+**ARG8000**
 
 This project is a part of our junior-level engineering project where we developed an Automated Grape Picking Robot.
 The robot is designed to address labor shortages and reduce the physically demanding nature of grape harvesting. The robot uses computer vision techniques for navigation and object detection, specifically for identifying and picking ripe grapes.
@@ -14,8 +14,7 @@ Before you begin, make sure you have the following installed on your system:
 - Visual Studio Build Tools (Windows): Needed for building some dependencies like OpenCV.
 
 
-
-  **## Setup Instructions**
+## Setup Instructions
 
 ### Clone the Repository
 
@@ -38,5 +37,4 @@ pip install opencv-python opencv-contrib-python numpy
 
 
 ## Run the programm
-
 python3 main.py
