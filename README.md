@@ -19,6 +19,7 @@ Before you begin, make sure you have the following installed on your system:
 ### Clone the Repository
 
 First, clone the repository to your local machine:
+
     git clone <repository_url>
     cd <repository_directory>
 
