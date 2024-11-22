@@ -1,8 +1,7 @@
 **# ARG8000**
 
-_This project is a part of our junior-level engineering project where we developed an Automated Grape Picking Robot. _
+This project is a part of our junior-level engineering project where we developed an Automated Grape Picking Robot.
 The robot is designed to address labor shortages and reduce the physically demanding nature of grape harvesting. The robot uses computer vision techniques for navigation and object detection, specifically for identifying and picking ripe grapes.
-
 
 
 ## Prerequisites
@@ -18,13 +17,13 @@ Before you begin, make sure you have the following installed on your system:
 
   **## Setup Instructions**
 
-### - Clone the Repository
+### Clone the Repository
 
 First, clone the repository to your local machine:
     git clone <repository_url>
     cd <repository_directory>
 
-### - Create and Activate a Virtual Environment
+### Create and Activate a Virtual Environment
 #### MacOS/Linux
 python3 -m venv .venv
 source .venv/bin/activate
@@ -33,7 +32,7 @@ source .venv/bin/activate
 python -m venv .venv
 .venv\Scripts\activate
 
-### - Install Dependencies
+### Install Dependencies
 (for macOS use pip3)
 pip install opencv-python opencv-contrib-python numpy
 
