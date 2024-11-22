@@ -34,6 +34,7 @@ First, clone the repository to your local machine:
 
 ### Install Dependencies
 (for macOS use pip3)
+
     pip install opencv-python opencv-contrib-python numpy
 
 
